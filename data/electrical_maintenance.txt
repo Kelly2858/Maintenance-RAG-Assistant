@@ -1,0 +1,16 @@
+# Electrical Maintenance Guidelines
+
+## Section 1: Panels and Distribution
+Electrical panels must be inspected semi-annually. Check for signs of overheating, corrosion, or loose connections. Ensure all breakers are labeled correctly. Dust and vacuum panels annually to prevent arc faults.
+
+## Section 2: Motors and Transformers
+Inspect motors for unusual vibrations, noise, or excess heat. Lubricate bearings according to manufacturer specifications. Transformers should undergo annual oil tests (if oil-filled) and infrared thermography to detect hotspots.
+
+## Section 3: Grounding and Bonding
+Verify grounding systems annually. Measure ground resistance to ensure it is below 5 ohms. Ensure all equipment is properly bonded to prevent static buildup and shock hazards.
+
+## Section 4: Lighting and Cables
+Inspect lighting fixtures for damage and replace flickering or burnt-out bulbs. Inspect cable trays and conduits for physical damage. Ensure cables are not subjected to excessive tension or sharp bends.
+
+## Section 5: Arc Flash Safety
+Always adhere to arc flash boundaries. Personal Protective Equipment (PPE) specified by the arc flash label must be worn when interacting with energized equipment. Ensure arc flash studies are updated every 5 years.

@@ -1,0 +1,16 @@
+# Conveyor Maintenance Operations
+
+## Section 1: Belt Inspection
+Conveyor belts are the backbone of material handling. Inspect belts daily for tears, fraying, and uneven wear. Misalignment causes the belt to track improperly, rubbing against the frame and degrading the edges.
+
+## Section 2: Rollers and Idlers
+Listen for squeaking or grinding rollers as conveyors operate. Seized rollers can damage the belt and pose a fire hazard due to friction. Replace defective idlers immediately during the next shutdown.
+
+## Section 3: Drive Systems
+Inspect the drive motor and gearbox. Check gearbox oil levels monthly and replace the oil annually. Ensure the drive chain or V-belt is tensioned correctly to prevent slippage.
+
+## Section 4: Safety Mechanisms
+Test emergency stop pull cords and safety interlocks weekly. Ensure guards are securely in place over all nip points, rotating shafts, and drive components.
+
+## Section 5: Splicing and Material Handling
+Inspect belt splices (mechanical or vulcanized) for signs of fatigue. Ensure scrapers and cleaners are adjusted correctly to prevent material carryback, which can foul rollers and idlers.

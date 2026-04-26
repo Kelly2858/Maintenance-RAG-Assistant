@@ -1,0 +1,43 @@
+# HVAC Maintenance Guidelines
+
+## Section 1: Air Filters
+Air filters are critical for maintaining good indoor air quality and ensuring the HVAC system operates efficiently. HVAC air filters should be replaced every 1 to 3 months, depending on the system's usage and the specific environment. In environments with high dust or industrial debris, monthly replacement is recommended.
+
+A clogged filter restricts airflow, forcing the system to work harder and increasing energy consumption by up to 15%. Use the correct MERV (Minimum Efficiency Reporting Value) rated filter for your system. Standard commercial systems typically use MERV 8-13 filters.
+
+Filter inspection checklist: Check for visible dirt and debris, hold the filter up to light (if you cannot see through it, replace it), check for damage or gaps that would allow bypass air.
+
+## Section 2: Refrigerant Systems
+Refrigerant levels must be checked annually by a certified technician. Low refrigerant can indicate a leak, which should be repaired immediately. Operating a system with low refrigerant can damage the compressor and reduce cooling capacity.
+
+Signs of low refrigerant include: ice forming on the evaporator coil, warm air from supply vents, longer cooling cycles, and hissing or bubbling sounds near refrigerant lines.
+
+The compressor is the most expensive component in an HVAC system. Protect it by ensuring proper refrigerant charge, adequate oil levels, and clean condenser coils. Compressor burnout often results from running with low refrigerant or a restricted filter drier.
+
+## Section 3: Condenser and Evaporator Coils
+Condenser coils on the outdoor unit can become coated with dirt, leaves, and debris. They should be cleaned at least once a year using a coil cleaning solution and low-pressure water. Dirty coils reduce the system's ability to cool and can cause the compressor to overheat.
+
+Evaporator coils should be inspected annually for cleanliness and frost buildup. A frozen evaporator coil usually indicates low airflow (dirty filter or closed dampers) or low refrigerant charge.
+
+Maintain at least 24 inches of clearance around the outdoor condenser unit. Trim vegetation, remove debris, and ensure the unit is level.
+
+## Section 4: Thermostats and Controls
+Calibrate thermostats annually to ensure accurate temperature readings. A thermostat that reads 3°F high or low can increase energy costs by 5-10%. Consider upgrading to programmable or smart thermostats for better energy management.
+
+BAS (Building Automation System) setpoints should be reviewed seasonally. Typical setpoints are 72°F for cooling and 68°F for heating, with setback schedules for unoccupied hours.
+
+Inspect control wiring for damage, corrosion, or loose connections. Pneumatic controls (if still in use) should be checked for air leaks and calibrated quarterly.
+
+## Section 5: Ductwork and Distribution
+Inspect ductwork for leaks and proper insulation. Leaky ducts can lose up to 30% of conditioned air, drastically reducing system efficiency and increasing costs. Seal leaks with mastic sealant or UL-listed duct tape (not standard duct tape).
+
+Balance the air distribution system by measuring airflow at each supply register. Use a balometer or anemometer and compare readings to design CFM values. Adjust dampers as needed to achieve proper air balance.
+
+Check blower belts for wear and tension; replace if cracked, glazed, or frayed. Belt tension should allow approximately 1 inch of deflection at the midpoint. Blower motors should be lubricated annually if equipped with grease fittings.
+
+## Section 6: Seasonal Maintenance
+Spring (Cooling Season Prep): Clean condenser coils, check refrigerant levels, replace filters, verify thermostat cooling mode operation, clean condensate drain lines with bleach solution.
+
+Fall (Heating Season Prep): Inspect heat exchangers for cracks (critical safety concern for gas-fired systems), test ignition systems, verify safety controls, replace filters, check gas connections for leaks using soap bubble test.
+
+Monthly tasks: Check and replace filters, verify thermostat operation, inspect condensate drains, monitor energy consumption trends.

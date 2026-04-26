@@ -1,0 +1,10 @@
+# Environment Variables
+.env
+
+# ChromaDB persistent storage
+vector_db/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/

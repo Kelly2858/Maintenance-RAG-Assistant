@@ -1,0 +1,16 @@
+# Facility Safety Procedures
+
+## Section 1: Lockout/Tagout (LOTO)
+LOTO is mandatory before performing any maintenance on equipment. Isolate all energy sources (electrical, mechanical, hydraulic, pneumatic). Verify zero energy state before commencing work.
+
+## Section 2: Confined Space Entry
+A confined space permit is required before entry. Test the atmosphere for oxygen levels, toxic gases, and combustible fumes. Ensure a standby attendant is present at all times during the operation.
+
+## Section 3: Personal Protective Equipment (PPE)
+Standard PPE includes steel-toed boots, safety glasses, and hard hats. Specialized PPE (e.g., arc flash suits, respirators, chemical resistant gloves) must be worn depending on the specific hazard assessment of the task.
+
+## Section 4: Hot Work Permits
+Any activity producing sparks or flames (welding, cutting, grinding) requires a hot work permit. Ensure the area is clear of combustibles, fire extinguishers are on hand, and a fire watch is maintained for 30 minutes after work completion.
+
+## Section 5: Fall Protection and Hazmat
+Fall protection (harness and lanyard) is required when working at heights above 4 feet in general industry. Handle hazardous materials according to their Safety Data Sheets (SDS). Report any chemical spills immediately to the environmental health and safety officer.

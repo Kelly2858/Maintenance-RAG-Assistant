@@ -1,0 +1,44 @@
+# Electric Motor Maintenance Guide
+
+## Section 1: Motor Types and Inspection
+Electric motors are the workhorses of industrial operations. The most common types are AC induction motors, synchronous motors, and DC motors. Daily visual inspections should look for abnormal sounds, excessive heat, unusual odors (burning insulation), and vibration.
+
+Motor nameplate data is critical for maintenance. Record the horsepower, voltage, full load amps (FLA), RPM, frame size, service factor, and insulation class. A motor operating beyond its service factor is being overloaded and its lifespan will be significantly reduced.
+
+## Section 2: Insulation Testing
+Perform insulation resistance tests (megger tests) at least annually or after any motor winding repair. Minimum acceptable insulation resistance is 1 megohm per 1000 volts of rated voltage, plus 1 megohm. For example, a 460V motor should have at least 1.46 megohms.
+
+Polarization Index (PI) testing compares the 10-minute megger reading to the 1-minute reading. A PI ratio of 2.0 or higher indicates good insulation. Values below 1.5 suggest moisture absorption or contamination.
+
+## Section 3: Bearing Maintenance
+Motor bearings should be greased per the manufacturer's schedule, typically every 2000-4000 operating hours. Use only the specified grease type; mixing greases can cause chemical reactions that destroy lubrication properties.
+
+Signs of bearing failure include increasing vibration, rising temperature, and audible grinding or squealing. Replace bearings if vibration velocity exceeds 0.3 inches per second (IPS) or if bearing temperature exceeds 200°F (93°C).
+
+For sealed bearings (common in fractional HP motors), bearings are replaced as a unit and are not re-greaseable.
+
+## Section 4: Variable Frequency Drives (VFDs)
+VFDs allow precise speed control of AC motors. Inspect VFD enclosures monthly for dust accumulation, which can cause overheating. Ensure cooling fans are operational. Check capacitors for bulging or leakage during annual inspections.
+
+VFD parameter settings must be verified after firmware updates. Key parameters include motor nameplate data, acceleration/deceleration times, current limits, and fault history. Keep a backup of all VFD parameters.
+
+Common VFD faults: Overcurrent (check motor and cabling), overvoltage (check input power quality), and overtemperature (clean filters and fans).
+
+## Section 5: Troubleshooting
+Motor fails to start:
+- Check power supply voltage at motor terminals.
+- Verify overload relay has not tripped.
+- Inspect contactor for pitted or worn contacts.
+- For VFD-driven motors, check VFD fault codes.
+
+Motor runs hot:
+- Verify the motor is not overloaded (measure amps vs nameplate FLA).
+- Check ventilation; ensure cooling fins are clean and fan is intact.
+- Verify supply voltage is within ±10% of nameplate rating.
+- Voltage imbalance between phases should not exceed 2%.
+
+Excessive vibration:
+- Check alignment with driven equipment.
+- Inspect coupling for wear or damage.
+- Verify motor mounting bolts are tight.
+- Check for soft foot conditions.

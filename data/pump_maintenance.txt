@@ -1,0 +1,30 @@
+# Pump Maintenance Guide
+
+## Section 1: Centrifugal Pumps
+Centrifugal pumps are widely used for fluid transport in industrial facilities. Daily inspections should include checking for unusual noises, vibrations, and leaks around the casing. Monitor discharge pressure to ensure it remains within the operating curve. Suction and discharge gauges should be read and logged every shift.
+
+Startup procedure: Open the suction valve fully, then crack open the discharge valve. Start the motor and slowly open the discharge valve to the desired flow rate. Never run a centrifugal pump with the discharge valve fully closed for extended periods as this causes heat buildup and potential seal damage.
+
+## Section 2: Seals and Packing
+Mechanical seals should be checked weekly for leaks. A slight drip from packing is normal (about 40-60 drops per minute) to keep it lubricated, but excessive leaking requires tightening or repacking. Never overtighten packing as it increases shaft wear and energy consumption.
+
+To repack a pump: isolate the pump, remove the gland follower, extract old packing rings, clean the stuffing box, install new packing rings staggering the joints by 90 degrees, and adjust the gland for a controlled drip rate.
+
+## Section 3: Impellers and Volute
+Inspect impellers annually for signs of cavitation, erosion, or corrosion. Cavitation sounds like pumping marbles and occurs when Net Positive Suction Head Available (NPSHa) is lower than required (NPSHr). To fix cavitation, ensure suction lines are unobstructed, reduce pump speed, or lower the liquid temperature.
+
+Wear rings should be checked for proper clearance. Excessive wear ring clearance reduces pump efficiency dramatically. Typical clearance should be 0.010-0.020 inches per side for standard pumps.
+
+## Section 4: Bearings and Lubrication
+Monitor bearing temperatures; they should not exceed 180°F (82°C). Lubricate bearings on a strict schedule using the manufacturer-recommended grease type. Over-lubrication can cause as much damage as under-lubrication by creating excessive pressure inside the bearing housing.
+
+Vibration analysis should be performed monthly. Baseline vibration levels should be established when the pump is first commissioned or after a major overhaul. An increase of 50% over baseline indicates developing bearing or alignment issues.
+
+## Section 5: Alignment and Troubleshooting
+Misalignment is a primary cause of pump failure. Perform laser alignment whenever a pump or motor is moved. Acceptable tolerances are typically 0.002 inches offset and 0.001 inches per inch angularity.
+
+Common troubleshooting guide:
+- No flow: Check for loss of prime, clogged suction lines, or incorrect rotational direction.
+- Low pressure: Inspect for worn impeller, excessive internal clearances, or air leaks in suction.
+- Excessive vibration: Verify alignment, check for cavitation, inspect coupling condition.
+- Overheating: Ensure adequate cooling water flow, check bearing condition, verify proper lubrication.

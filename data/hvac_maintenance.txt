@@ -1,0 +1,17 @@
+# HVAC Maintenance Guidelines
+
+## Section 1: Air Filters
+Air filters are critical for maintaining good indoor air quality and ensuring the HVAC system operates efficiently. 
+HVAC air filters should be replaced every 1 to 3 months, depending on the system's usage and the specific environment. In environments with high dust or industrial debris, monthly replacement is recommended. A clogged filter restricts airflow, forcing the system to work harder and increasing energy consumption.
+
+## Section 2: Refrigerant
+Refrigerant levels must be checked annually. Low refrigerant can indicate a leak, which should be repaired immediately by a certified technician. Operating a system with low refrigerant can damage the compressor. 
+
+## Section 3: Condenser Coils
+Condenser coils on the outdoor unit can become coated with dirt and debris. They should be cleaned at least once a year. Dirty coils reduce the system's ability to cool and can cause the system to overheat.
+
+## Section 4: Thermostats
+Calibrate thermostats annually to ensure accurate temperature readings. Consider upgrading to programmable or smart thermostats for better energy management.
+
+## Section 5: Ductwork and Belts
+Inspect ductwork for leaks and proper insulation. Leaky ducts can lose up to 30% of conditioned air. Check blower belts for wear and tension; replace if cracked or frayed.
